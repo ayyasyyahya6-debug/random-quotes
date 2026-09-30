@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(to top left, #0e7dec, #fefefe,#dc0909 );
+    display: flex;
+    font-family: '', 'papyrus', Arial, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+div {
+    background: linear-gradient(to bottom right, #efeaf1,#dc0909 ) ;
+    padding: 20px;
+    border-radius: 10px;
+    display: inline-block;
+    font-style: oblique;
+    
+}
+
+button {
+    font-family: 'Courier New', Courier, monospace;
+    padding: 10px, 20px;
+    font-size: medium;
+    background-color: #dbe1e8;
+
+}
